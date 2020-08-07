@@ -8,6 +8,9 @@
   },
   "author": "Myles Borins <mylesborins@github.com>",
   "license": "MIT",
+  "dependencies": {
+    "path-parse": "^1.0.6"
+  },
   "devDependencies": {
     "tape": "^5.0.0"
   }
